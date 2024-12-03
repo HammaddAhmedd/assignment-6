@@ -3,7 +3,7 @@ import Image from 'next/image'
 
 const testimonial = () => {
   return (
-    <div className='w-[1280px] h-[830.89px] bg-[#F7F7F7] flex flex-col justify-center pl-[50px] gap-[80px] '>
+    <div className='w-[1280px] h-[830.89px] bg-[#F7F7F7] flex flex-col justify-center pl-[50px] gap-[80px]'>
       <div className='w-[560px] h-[109px] flex flex-col gap-[24px]'>
         <h1 className='text-[48px] font-bold'>Customer testimonials</h1>
         <p className='text-[18px]'>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
@@ -20,7 +20,7 @@ const testimonial = () => {
                 </div>
                 <div className='w-[298.67px] h-[215px] flex flex-col justify-between'>
                     <div>
-                        <p className='text-[18px]'>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare."
+                        <p className='text-[18px]'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare.
                         </p>
                     </div>
                     <div className='w-[215px] h-[56px] flex justify-center justify-between'>
@@ -48,7 +48,7 @@ const testimonial = () => {
                 </div>
                 <div className='w-[298.67px] h-[215px] flex flex-col justify-between'>
                     <div>
-                        <p className='text-[18px]'>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare."
+                        <p className='text-[18px]'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare.
                         </p>
                     </div>
                     <div className='w-[215px] h-[56px] flex justify-center justify-between'>
@@ -76,7 +76,7 @@ const testimonial = () => {
                 </div>
                 <div className='w-[298.67px] h-[215px] flex flex-col justify-between'>
                     <div>
-                        <p className='text-[18px]'>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare."
+                        <p className='text-[18px]'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare.
                         </p>
                     </div>
                     <div className='w-[215px] h-[56px] flex justify-center justify-between'>
